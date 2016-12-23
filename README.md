@@ -1,2 +1,3 @@
 # hello.world
 Learning how to use GitHub
+I have coded in C, Perl, Matlab, FORTRAN (ages ago) as well as Pascel (remember that language? I barley do). I have even coded in Assembler, but try to avoid that. I enjoy coding when I get engaged into a project and I am looking for an open source project to get engaged in. I am in the process of learning Object Oriented programing (Python and Java), so I figured that I would try my hand with some open source projects. But first, I need to get comfortable with GitHub. I have used version control tools in the past, so I am familiar with the concepts involved (checking in/checking out code, committing code, and tagging code). Anyway, lets get started. :)
